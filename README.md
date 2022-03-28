@@ -16,9 +16,9 @@
 <a href="https://github.com/Kangsad01/Wabot-Tsb01/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kangsad01/Wabot-Tsb01?label=PullRequest&color=red&style=flat-square"></a>
 
 ---
-## Whatsapp group
+## Whatsapp chat
 
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FYcSmBK4qVW3yvna8Yyzu3)
+[![WhatsApp chat](https://img.shields.io/badge/WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/c/6285823467060)
 
 ---
 ## FOR DEPLOY HEROKU USER
