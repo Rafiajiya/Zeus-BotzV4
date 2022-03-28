@@ -18,7 +18,7 @@
 ---
 ## Whatsapp chat
 
-[![WhatsApp chat](https://img.shields.io/badge/WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/c/6285823467060)
+[![WhatsApp chat](https://img.shields.io/badge/WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/6285823467060)
 
 ---
 ## FOR DEPLOY HEROKU USER
