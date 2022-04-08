@@ -1,17 +1,17 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.wm = `◈ ZeusBotz` //UBAH JADI NAMAMU
-global.botwm = `◈ ZeusBotzV3` //UBAH JADI NAMAMU
+global.wm = `◈ Rafi Botz` //UBAH JADI NAMAMU
+global.botwm = `◈ Rafi aji` //UBAH JADI NAMAMU
 
-global.name = 'Zeus Botz'// nama bot
-global.dev = `Pilar`// developer
+global.name = 'Vincent🔥'// nama bot
+global.dev = `Rafi`// developer
 
 
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP']
 //kalo mau ubah nama owner nya ubah di ../plugins/creator.js
-global.owner = ['6289625556161','62896255561617'] // Letakan nomor kamu disini
+global.owner = ['62882007331744','6288233481992'] // Letakan nomor kamu disini
 global.mods = ['0'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -57,7 +57,7 @@ global.APIKeys = { // APIKey nya disini
   'http://xosfor.herokuapp.com': '8uhDyCud',
 }
 //sosmed owner
-global.yt = 'https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ' //UBAH JADI LINK YT LU
+global.yt = 'Gaada Yt banh' //UBAH JADI LINK YT LU
 global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
 
 //donasi
